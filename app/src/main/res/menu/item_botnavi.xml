@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="" android:id="@+id/cart" android:icon="@mipmap/cart_icon_foreground"/>
+    <item android:title="" android:id="@+id/twittertweet" android:icon="@mipmap/twitter_icon_foreground"/>
+    <item android:title="" android:id="@+id/picture" android:icon="@mipmap/picture_icon_foreground"/>
+    <item android:title="" android:id="@+id/youtube" android:icon="@mipmap/youtube_icon_foreground"/>
+    <item android:title="" android:id="@+id/dictionary" android:icon="@mipmap/dictionary_icon_foreground"/>
+</menu>
